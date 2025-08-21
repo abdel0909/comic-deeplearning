@@ -1,0 +1,11 @@
+torch
+transformers
+diffusers
+accelerate
+safetensors
+pillow
+opencv-python
+reportlab
+tqdm
+ipywidgets
+numpy
