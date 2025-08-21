@@ -1,10 +1,21 @@
-# Python
+# Bytecode
 __pycache__/
 *.pyc
 
 # Outputs
-runs/
-out/
+out/**
+!out/**/.gitkeep
+
+runs/**
+!runs/**/.gitkeep
+
+data/**
+!data/**/.gitkeep
+
+models/**
+!models/**/.gitkeep
+
+# Model weights
 *.ckpt
 *.safetensors
 
