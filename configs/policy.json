@@ -1,0 +1,9 @@
+{
+  "model": "runwayml/stable-diffusion-v1-5",
+  "width": 704,
+  "height": 960,
+  "num_inference_steps": 24,
+  "guidance_scale": 7.0,
+  "use_controlnet_openpose": false,
+  "variants_per_panel": 1
+}
