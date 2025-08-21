@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Outputs
+runs/
+out/
+*.ckpt
+*.safetensors
+
+# Envs & misc
+.env
+.venv/
+.ipynb_checkpoints/
