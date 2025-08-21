@@ -1,0 +1,9 @@
+# `configs/characters.json`
+```json
+{
+  "Bär":   { "prompt": "majestic brown bear, symbol of Russia, comic style, clean lineart, cel shading" },
+  "Adler": { "prompt": "bald eagle, symbol of USA, proud, wings wide, comic style, clean lineart, cel shading" },
+  "Fuchs": { "prompt": "clever red fox, EU blue scarf with stars, comic style, clean lineart, cel shading" },
+  "Eule":  { "prompt": "wise owl, yellow and blue accents, comic style, clean lineart, cel shading" },
+  "Taube": { "prompt": "white dove with olive branch, soft glow, comic style, clean lineart, cel shading" }
+}
