@@ -1,0 +1,7 @@
+# Platzhalter – später für LoRA-Feintuning nutzen
+base_model: runwayml/stable-diffusion-v1-5
+resolution: 512
+train_steps: 1000
+lora_rank: 8
+batch_size: 2
+lr: 1e-4
